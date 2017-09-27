@@ -1,0 +1,4 @@
+This program needs JavaSE-1.8
+To run the code, run Assignment.java
+1912.csv.gz is already provided but to use any other file, edit the path in "lines" variable in Assignment.java with 
+the absolute path of your file.
